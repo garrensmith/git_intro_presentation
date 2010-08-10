@@ -4,6 +4,7 @@
 * local system
 * branching
 * fast
+* distributed
 
 !SLIDE bullets incremental transition=fade
 
