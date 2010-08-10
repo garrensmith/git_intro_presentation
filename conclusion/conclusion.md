@@ -12,8 +12,17 @@
 
 !SLIDE
 # where to from here?
-##git svn
 
+!SLIDE center
+![github](github.png)
+## www.github.com
+
+!SLIDE
+#Help
+##http://gitref.org/
+  
+#email:
+##garrens@drivensoftware.net
 
 !SLIDE center
 
