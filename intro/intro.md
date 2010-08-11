@@ -7,11 +7,14 @@
 
 # Table of Contents
 * Introduction to Git
-* How Keyblade uses Git
 * Basic Commands
 * Workflow
 * Live demo
 * Where to start?
+
+!SLIDE center
+#Keyblade / Agile Workflow
+![keyblade](keyblade.png)
 
 !SLIDE center
 
