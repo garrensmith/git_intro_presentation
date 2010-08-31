@@ -21,6 +21,7 @@
 !SLIDE
 #Help
 ##http://gitref.org/
+##http://progit.org/
   
 #email:
 ##garrens@drivensoftware.net
@@ -30,4 +31,10 @@
 ![spread the word](be_free.jpg)
 ## Be free and
 ## Spread the word
+
+!SLIDE
+#Questions?
+
+!SLIDE center
+![me](Contact.png)
  

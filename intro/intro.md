@@ -3,6 +3,7 @@
 #Introduction to Git
 ![gitscm](gitscm.png)
 
+
 !SLIDE bullets --incremental transition=fade
 
 # Table of Contents
@@ -11,6 +12,10 @@
 * Workflow
 * Live demo
 * Where to start?
+
+!SLIDE center
+#<me>
+![me](Contact.png)
 
 !SLIDE center
 #Keyblade / Agile Workflow
