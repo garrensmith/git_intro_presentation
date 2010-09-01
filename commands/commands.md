@@ -20,6 +20,8 @@
 			
 	$ git init
 	create git repository in folder
+	$ git clone <remote git url repo>
+	clone repo with full history
 	$ git status
 	lists current status of repo eg.
 	 On branch master

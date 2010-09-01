@@ -3,6 +3,9 @@
 #Introduction to Git
 ![gitscm](gitscm.png)
 
+!SLIDE center
+#<me>
+![me](Contact.png)
 
 !SLIDE bullets --incremental transition=fade
 
@@ -14,8 +17,9 @@
 * Where to start?
 
 !SLIDE center
-#<me>
-![me](Contact.png)
+#Martin Fowler Source Control Summary
+![summary](summary.png)
+
 
 !SLIDE center
 #Keyblade / Agile Workflow
